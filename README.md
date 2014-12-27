@@ -6,7 +6,7 @@ Run the following commands:
 +   ``rhc cartridge add mysql-5.5 -a yournameapp``   
 
 If you face any other problem check ``rhc tail yournameapp``     
-In my case I had an error "undefined OPENSHIFT_MYSQL_DB_URL var" so it's wierd, and I tried to restart or reload openshift but without success, so I finally made a dummy commit and everything goes well.   
+In my case I had an error "undefined OPENSHIFT_MYSQL_DB_URL var" so it's wierd, and I tried to restart or reload openshift but without success, so I finally made a dummy commit and everything went well.   
 
 
 Enjoy.
