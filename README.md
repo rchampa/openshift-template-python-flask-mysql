@@ -1,4 +1,4 @@
-openshift-template-python-flask
-===============================
+openshift-template-python-flask-mysql
+=====================================
 
 Template for python flask in openshift
